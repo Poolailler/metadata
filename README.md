@@ -1,0 +1,3 @@
+# metadata
+
+Cardano pool metadata
