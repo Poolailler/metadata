@@ -1,0 +1,23 @@
+{
+  "info": {
+    "url_png_icon_64x64": "https://raw.githubusercontent.com/AntoineSimoulin/poolailler/main/compressed.png",
+    "social": {
+      "telegram_handle": "https://t.me/joinchat/EaOdcTOX8qRmYzA0"
+    }
+  },
+  "about": {
+    "me": "Operated by two French guys passionate about technology. We have deep expertise in complex server infrastructures.",
+    "server": "Focused on redundancy, we operate 4 independent servers, with the block producer on RAID1 SSDs."
+  },
+  "my-pool-ids": {
+    "0": "15e94d5b8ab9ff7e7eaa0479a1bb7209bdca5f29ff7af1cf98d6c176"
+  },
+  "when-satured-then-recommend": {
+    "0": "aa8b94010cd3c7199be1d619079c184a59e6f1ad930926bc2bd38579"
+  },
+  "votes": {
+    "https://cips.cardano.org/cips/cip23/": {
+      "vote": "Yes"
+    }
+  }
+}
